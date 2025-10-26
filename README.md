@@ -17,7 +17,7 @@ You can visit my portfolio here:https://amaeregis.github.io/regis-portfolio/
 - CSS  
 - JavaScript  
 - Git & GitHub Pages  
-- Visual Code
+- VS Code
 - Google
 
  Contact Me
